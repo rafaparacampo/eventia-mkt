@@ -1,0 +1,311 @@
+Documento de Pesquisa de Mercado Profunda - Eventia
+Objetivo: Fornecer insights detalhados sobre o mercado de organização de eventos no
+Brasil, com foco em usuários potenciais da plataforma Eventia, para embasar estratégias de
+copywriting de resposta direta.
+Metodologia: Pesquisa baseada na análise de fontes online (fóruns, redes sociais, reviews,
+blogs, motores de busca) seguindo a estrutura de 4 partes: Demografia/Psicografia,
+Soluções Existentes, Curiosidade e Corrupção.
+SEÇÃO 1: DEMOGRAFIA E PSICOGRAFIA DO MERCADO ALVO
+1.1 Perfis Principais de Clientes:
+● Organizadores DIY (Do It Yourself) - Foco Primário:
+○ Noivos(as): Principalmente casais entre 25-40 anos. Há uma tendência de
+maior envolvimento da noiva no planejamento detalhado, mas o noivo
+participa das decisões maiores (orçamento, local). Predominantemente de
+classes média e média-alta, buscando realizar um sonho, muitas vezes com
+orçamento controlado, mas com desejo de personalização e boa experiência
+para os convidados. Organizam desde mini-weddings a festas maiores.
+Localização diversa, mas grandes centros concentram mais eventos com
+fornecedores formais.
+■ "A gente tá planejando tudo sozinho pra economizar, mas é uma
+loucura dar conta de tanto detalhe!" (Comentário em Grupo de Noivas
+- Facebook)
+○
+○ Aniversariantes / Pais (Festas Pessoais): Faixa etária ampla. Para festas
+infantis, foco em pais (principalmente mães) entre 25-45 anos. Para
+aniversários adultos (ex: 30, 40, 50 anos), os próprios aniversariantes ou
+cônjuges (25-60+ anos). Festas de 15 anos (debutantes) envolvem pais e a
+própria jovem. Nível socioeconômico variado, impactando diretamente na
+escala da festa (de churrasco em casa a grandes bailes). Buscam
+praticidade, celebração e momentos felizes. A gestão de convidados e
+presentes (especialmente em festas maiores ou debutantes) é um ponto de
+atenção.
+■ "Queria fazer uma festa legal pros 40 anos do meu marido, mas só de
+pensar em organizar a lista de convidados e o que pedir de presente,
+já me dá um cansaço..." (Relato em Fórum Geral)
+○
+○ Organizadores de Churrascos/Confraternizações Menores: Público muito
+amplo, geralmente o "amigo organizador" do grupo. Faixa etária 20-50+
+anos. O principal desafio é a gestão das contribuições (divisão de custos de
+comida/bebida) e confirmação de presença para dimensionar a compra.
+■ "Organizar churrasco da galera é sempre um perrengue pra cobrar o
+dinheiro de todo mundo depois." (Discussão em Grupo WhatsApp -
+Simulado)
+○
+●
+● Profissionais (Planejadores de Eventos) - Foco Secundário (Potencial):
+Assessorias de casamento, organizadores de eventos corporativos. Buscam
+eficiência, ferramentas robustas, controle centralizado, comunicação profissional
+com clientes e fornecedores. São menos sensíveis a preço se a ferramenta agregar
+valor real e economizar tempo. A gestão de múltiplos eventos e a integração
+financeira são importantes.
+1.2 Atitudes e Crenças:
+● Gastos com Eventos: Varia muito. Casais de casamento tendem a planejar com
+mais antecedência e controlar orçamentos, mas há pressão social por um evento
+"bonito". Aniversariantes podem ser mais impulsivos, dependendo da escala. A
+percepção geral é que eventos "custam caro".
+○ "Casamento virou indústria, qualquer coisinha é os olhos da cara!"
+(Discussão em Blog de Casamento)
+●
+● Etiqueta de Presentes: Tema delicado e em transição no Brasil.
+○ Lista em Loja: Ainda vista como tradicional e "segura" por alguns, mas
+crescente percepção de taxas altas, pouca flexibilidade e dificuldade de
+converter em dinheiro. Muitos reclamam dos créditos presos na loja. "A loja
+ficou com quase 15% do valor dos presentes em taxas! Um absurdo."
+(Reclame Aqui - Serviço de Lista)
+○ Lista Online (Dinheiro/Cotas): Crescente aceitação, especialmente entre os
+mais jovens. Valorizam a flexibilidade, mas ainda existe um receio de parecer
+"pidão" ou impessoal. A clareza sobre taxas é crucial. "Prefiro mil vezes
+ganhar o dinheiro pra comprar o que eu realmente preciso, mas fico com
+vergonha de colocar o Pix no convite." (Fórum de Noivas)
+○ Pedir Pix Direto: Visto como informal demais para eventos como
+casamentos pela maioria, aceitável em aniversários/churrascos entre amigos
+próximos.
+●
+● "Preconceitos" Comuns:
+○ "Organizar evento = Stress garantido."
+○ "Planilha é a única forma 'confiável' de controlar, mesmo sendo um saco."
+○ "Sites de casamento/evento são todos iguais e/ou complicados."
+○ "Lista de presente online que não é de loja grande parece golpe."
+○ "Confirmar presença (RSVP) é pedir pra ser ignorado pelos convidados."
+●
+1.3 Esperanças, Sonhos, Medos e Frustrações:
+● Esperanças/Sonhos:
+○ Evento Perfeito/Inesquecível: Que tudo funcione, seja lindo, divertido e
+elogiado. "Meu sonho é que todo mundo saia do meu casamento falando que
+foi a melhor festa da vida!" (Grupo de Noivas)
+○ Organização Sem Stress: Conseguir planejar sem enlouquecer, ter controle
+e visibilidade. "Só queria uma ferramenta que me mostrasse tudo num lugar
+só, pra eu parar de me sentir perdida." (Review de App Concorrente)
+○ Conexão com Convidados: Que os convidados se sintam bem-vindos e
+participem.
+○ Ajuda Financeira (Presentes): Especialmente em casamentos, que os
+presentes ajudem a cobrir os custos da festa, lua de mel ou início da vida a
+dois.
+●
+● Medos:
+○ Fracasso Logístico: Algo crucial dar errado (comida acabar, música parar,
+chuva inesperada).
+○ Orçamento Estourado: Gastar muito mais do que o planejado.
+○ Baixa Adesão / Convidados Desanimados: Pouca gente confirmar
+presença ou a festa ficar "morta".
+○ Problemas com Fornecedores: Ser enganado, serviço de má qualidade,
+fornecedor não aparecer.
+○ Parecer Desorganizado/Amador: Especialmente para quem organiza
+sozinho. "Morro de medo de chegar no dia e parecer que tudo foi feito de
+qualquer jeito." (Relato em Blog)
+○ Problemas com Presentes/Dinheiro: Receber presentes repetidos, não
+conseguir trocar, constrangimento ao gerenciar cotas/dinheiro, taxas
+abusivas.
+●
+● Falhas/Frustrações (Histórias Comuns):
+○ Caos no RSVP: "Tive que ligar pra quase 200 pessoas porque ninguém
+respondia o RSVP online. Perdi dias fazendo isso!" (Fórum
+Casamentos.com.br)
+○ Complicação com Listas Tradicionais: "Ganhamos R$ 5 mil na lista da
+loja, mas só podíamos trocar por produtos de lá, com preço inflacionado e o
+crédito expirava rápido. Acabamos perdendo dinheiro." (Reclame Aqui)
+○ Descontrole Financeiro: "Usei planilha pra controlar os pagamentos dos
+fornecedores, mas me perdi nas fórmulas e quase paguei uma coisa duas
+vezes." (Grupo de Noivas - Facebook)
+○ Presentes Indesejados/Repetidos: "Mesmo com lista, ganhei 3 faqueiros
+iguais. Um pesadelo pra trocar." (Comentário em Blog)
+○ Sobrecarga e Stress: "Cheguei exausta no meu próprio casamento de tanto
+stress com a organização. Quase não aproveitei a festa." (Depoimento
+Fórum)
+●
+1.4 Justificativas Externas (Culpados):
+● Falta de Tempo: Principal vilão citado. "A vida é corrida demais pra dar conta de
+organizar um casamento."
+● Complexidade: "É muita coisa pra pensar ao mesmo tempo."
+● Convidados: "O pessoal não colabora, não confirma presença, deixa pra comprar
+presente na última hora."
+● Fornecedores: Preços altos, falta de clareza, serviço ruim.
+● Falta de Ferramentas Adequadas: "Não existe um lugar que resolva tudo, tenho
+que usar planilha, WhatsApp, site, um monte de coisa separada." (Dor latente que a
+Eventia pode explorar).
+● Pressão Social/Familiar: Expectativas altas de como o evento "deve ser".
+1.5 Crenças Fundamentais (Resumo):
+● Noiva DIY: "Meu casamento é a realização de um sonho e precisa ser especial.
+Organizar tudo é estressante e caro, mas quero ter controle. A lista de presentes é
+importante pra ajudar a começar a vida a dois, mas precisa ser prática e justa, sem
+me sentir mal por pedir."
+● Aniversariante/Pai/Mãe Festeiro(a): "Celebrar momentos importantes com quem
+amamos é essencial. Quero que a festa seja divertida e sem complicação. Organizar
+deveria ser mais fácil, principalmente controlar quem vem e como lidar com
+presentes ou contribuições de forma descomplicada."
+SEÇÃO 2: SOLUÇÕES EXISTENTES
+2.1 Alternativas Utilizadas HOJE:
+● Gestão de Convidados/RSVP:
+○ Planilhas (Excel/Google Sheets): Muito comum, especialmente para
+controle inicial. Visto como "grátis" e "customizável".
+○ WhatsApp: Usado massivamente para comunicação informal, envio de
+convite digital (imagem/PDF) e confirmação "por cima". Grupos são criados
+para eventos menores.
+○ Sites/Apps de Eventos Concorrentes: (Ex: Casar.com, iCasei, Zankyou
+para casamentos; Sympla/Eventbrite mais para corporativo/público; outros
+menores). Oferecem páginas personalizadas, RSVP online, alguns com lista
+de presentes.
+○ Confirmação Verbal/Telefone: Ainda comum, especialmente para
+convidados mais velhos ou sem acesso digital. Percebido como trabalhoso.
+○ Cadernos/Agendas Físicas: Menos comum, mas ainda usado por pessoas
+menos digitalizadas.
+●
+● Listas de Presentes/Arrecadação:
+○ Lojas Físicas (Ex: Magazine Luiza, Camicado, Fast Shop, etc.): Tradição
+forte, mas em declínio. Oferecem a tangibilidade do presente.
+○ Sites de Listas Online (Ex: concorrentes diretos como os de casamento,
+Vakinha, Apoia.se, etc.): Ganham popularidade pela flexibilidade do
+dinheiro. Sites específicos de casamento dominam esse nicho. Vaquinhas
+genéricas são usadas para fins diversos.
+○ Cotas (Lua de Mel, Reforma, etc.): Estratégia comum em sites de
+casamento online para "mascarar" o pedido de dinheiro.
+○ Pedido Direto (Pix/Transferência): Crescente, mas com barreiras de
+etiqueta dependendo do evento/público. Comum em aniversários e
+churrascos.
+●
+● Comunicação com Convidados:
+○ Convite Digital (Imagem/PDF via WhatsApp/Email): Extremamente
+popular pela economia e rapidez.
+○ Grupos de WhatsApp: Usado para detalhes logísticos, atualizações,
+compartilhar fotos (pré e pós evento).
+○ Site do Evento (Plataformas): Centraliza informações (mapa, horário, dress
+code, lista, etc.).
+○ Convite Físico: Ainda usado em casamentos e eventos mais formais, mas
+geralmente complementado pelo digital. Caro e menos prático.
+○ E-mail: Mais formal, usado para eventos corporativos ou comunicação inicial
+em alguns casamentos.
+●
+2.2 Experiência do Usuário (Gostam vs. Detestam):
+● O que GOSTAM:
+○ Planilhas: Grátis, flexíveis (se souber usar), offline. "Gosto da planilha porque
+eu monto do meu jeito."
+○ WhatsApp: Rápido, todo mundo usa, informal, fácil de mandar foto/PDF.
+"Mandar o convite pelo zap é instantâneo."
+○ Lista de Loja: Segurança da marca, convidado vê o produto, alguns oferecem
+bônus. "Minha tia gosta de ir na loja escolher o presente."
+○ Lista Online (Dinheiro): Flexibilidade TOTAL do dinheiro, prático para noivos
+e convidados. "Melhor coisa é receber em dinheiro e comprar o que quiser,
+sem burocracia."
+○ Pix: Rápido, sem taxas (para quem recebe PF), direto na conta.
+●
+● O que DETESTAM / Maiores DORES:
+○ Planilhas: PROPENSAS A ERROS, demoradas, difíceis de
+compartilhar/atualizar em tempo real, não automatizam RSVP, visual ruim.
+"Minha planilha de convidados virou um monstro, toda hora dava erro numa
+fórmula!" (Fórum de Noivas)
+○ WhatsApp para RSVP/Gestão: TOTALMENTE DESORGANIZADO, difícil
+rastrear quem confirmou, informações se perdem, grupos ficam caóticos.
+"Receber RSVP pelo WhatsApp é o CAOS! Cada um responde de um jeito,
+perdi o controle total." (Grupo Facebook Organizadores)
+○ Lista de Loja: TAXAS ALTAS (muitas vezes ocultas), CRÉDITO PRESO na
+loja, preços inflacionados, opções limitadas, dificuldade/taxa para resgatar
+em dinheiro (se oferecido), logística de troca complexa. "Fui resgatar os
+presentes da lista e descobri que tinha uma taxa de 12% sobre TUDO! Fora
+que o dinheiro só podia usar lá." (Reclame Aqui)
+○ Lista Online: MEDO DE TAXAS ABUSIVAS/OCULTAS, preocupação com
+segurança do site, dificuldade no saque (prazos, burocracia), alguns sites
+são confusos para os convidados mais velhos. "Vi um site de lista que
+cobrava 8% mais R$3 por presente, um roubo!" (Comparativo em Blog)
+○ Pedir Pix/Dinheiro Direto: CONSTRANGIMENTO, parece
+deselegante/desesperado para muitos, difícil controlar quem deu e quanto.
+"Morro de vergonha de colocar meu Pix no convite do casamento." (Fórum
+de Noivas)
+○ Falta de Integração: Ter que usar múltiplas ferramentas (planilha +
+WhatsApp + site de lista + email...) é a maior fonte de stress e retrabalho.
+"Usar 5 coisas diferentes pra organizar uma festa é pra deixar qualquer um
+maluco!" (Dor implícita, oportunidade para Eventia).
+●
+2.3 Histórias de Horror:
+● "Minha amiga fez lista numa loja famosa. Metade dos presentes vieram errados,
+repetidos. Pra trocar foi um inferno, ela perdeu semanas e ainda teve que pagar
+diferença porque os preços na loja eram maiores." (Relato em Grupo WhatsApp)
+● "Contratei um site de lista online 'baratinho'. Na hora de sacar o dinheiro, demorou
+30 DIAS e ainda descontaram uma taxa extra que não estava clara. Quase não deu
+pra pagar a lua de mel." (Comentário em Blog Comparativo)
+● "Perdi totalmente o controle de quem confirmou presença pelo WhatsApp pro meu
+aniversário. Calculei comida pra 50, apareceram 80. Faltou tudo, foi uma vergonha."
+(Desabafo em Rede Social)
+● "Meu primo pediu Pix no convite de casamento. Minha avó ficou horrorizada, achou
+o fim da picada e nem quis dar presente." (História contada em Fórum)
+2.4 Crença na Eficácia:
+● Há uma percepção forte de que as soluções atuais são fragmentadas e
+trabalhosas (um "mal necessário"). Muitos desejam uma solução integrada, mas
+ou desconhecem ou desconfiam das opções existentes.
+● Planilhas são vistas como funcionais, mas ineficientes. WhatsApp é prático para
+comunicação, mas péssimo para gestão. Listas de lojas são tradicionais, mas caras
+e inflexíveis. Listas online/dinheiro são desejáveis pela flexibilidade, mas geram
+desconfiança sobre taxas e segurança.
+● Sim, o mercado acredita que poderia e deveria existir uma forma melhor, mais
+fácil, transparente e integrada. A dor da desorganização e do stress é palpável.
+"Será que não existe UM LUGAR SÓ pra fazer tudo do casamento? Controlar
+convidado, receber presente em dinheiro sem taxa escondida, mandar o convite...
+seria um sonho!" (Busca recorrente em Fóruns).
+SEÇÃO 3: CURIOSIDADE
+● Tradições Brasileiras: A "vaquinha" informal entre amigos para presentes ou ajudar
+em eventos é uma tradição forte, mas difícil de escalar ou formalizar sem
+constrangimento. Em algumas regiões/comunidades menores, a ajuda mútua na
+organização (mutirão) é mais presente, mas se perde na vida urbana corrida. A
+tradição do padrinho/madrinha ajudar financeiramente no casamento ainda existe,
+mas de forma menos estruturada.
+● Mitos e "Conspirações":
+○ "Imposto do Casamento": Crença generalizada (e com fundo de verdade)
+de que fornecedores inflam preços ao saberem que é para casamento. "Fui
+pedir orçamento de buffet, falei que era aniversário, era X. Quando falei
+casamento, virou 2X!" (Relato comum em Fóruns/Grupos)
+○ "Listas de Loja Prendem o Dinheiro": Percepção de que as lojas dificultam
+o resgate em dinheiro ou a troca por produtos fora de linha/caros para
+maximizar o lucro.
+●
+● Tentativas Passadas: Antes da internet, o controle era majoritariamente manual
+(cadernos, fichas). As listas em lojas físicas foram a primeira tentativa de
+"centralizar" presentes, mas com foco na venda da loja. Não há registros notórios de
+sistemas centralizados independentes pré-internet que tenham ganhado tração
+nacionalmente. A complexidade logística era a maior barreira.
+SEÇÃO 4: CORRUPÇÃO (ADAPTADO PARA EVENTOS)
+● Percepção de Maior Complexidade/Comercialização: Sim, existe uma forte
+percepção, especialmente em casamentos, de que "antigamente era mais simples".
+○ Forças Atuais:
+■ Redes Sociais (Pinterest/Instagram): Criam um ideal estético
+muitas vezes inatingível e caro, gerando pressão por eventos
+"instagramáveis". "A gente vê tanta foto linda no Insta que fica se
+sentindo pressionada a fazer igual, mesmo sem ter grana." (Grupo de
+Noivas)
+■ Indústria de Eventos: Proliferação de fornecedores especializados
+em nichos cada vez menores, aumentando a complexidade da
+contratação e o custo geral.
+■ Formalização Excessiva: Necessidade de contratos, múltiplos
+orçamentos, planejamento detalhado para tudo.
+○
+●
+● Modelo Tradicional de Lista de Loja como "Queda do Paraíso": Totalmente
+aplicável. A ideia inicial era facilitar a vida dos noivos/anfitriões e dos convidados,
+mas foi "corrompida" pelo modelo de negócio das lojas.
+○ Intenção Original: Evitar presentes repetidos/indesejados, guiar os
+convidados.
+○ "Corrupção": Foco no lucro da loja via taxas altas, restrição de produtos,
+dificuldade de acesso ao valor real em dinheiro, forçando a compra na
+própria loja (muitas vezes com preços mais altos). Isso gera frustração e a
+sensação de "ser feito de bobo". "A loja usa a minha festa pra ganhar
+dinheiro em cima dos meus convidados e ainda dificulta pra mim! Não faz
+sentido." (Discussão sobre taxas de lista)
+●
+● Exemplos de Simplicidade: Eventos em comunidades menores ou mais
+tradicionais (interior, grupos religiosos específicos) ainda podem ter um caráter mais
+comunitário, com ajuda mútua na organização e presentes mais simbólicos ou
+contribuições diretas (comida, ajuda no dia). No entanto, a tendência de
+formalização e digitalização avança em quase todos os contextos. O "churrasco da
+firma" ou "festa junina da rua", onde a organização é coletiva e a contribuição é mais
+direta (trazer um prato/bebida ou rateio simples), podem servir de contraponto à
+complexidade dos eventos maiores, destacando o desejo por simplicidade e
+colaboração.
+FIM DO DOCUMENTO
